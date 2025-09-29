@@ -33,7 +33,7 @@ This project explores accident data through **Exploratory Data Analysis (EDA)** 
 1. **Data Cleaning & Preparation**
 
    * Converted date and time into proper datetime format
-   * Extracted additional features like `Hour` of accident
+   * Extracted additional features like `Hour` of the accident
 
 2. **Exploratory Data Analysis (EDA)**
 
@@ -53,6 +53,10 @@ This project explores accident data through **Exploratory Data Analysis (EDA)** 
 ---
 
 ## 📊 Results & Insights
+
+<img width="886" height="606" alt="image" src="https://github.com/user-attachments/assets/12b5d050-e3b4-4a1d-aaeb-f3db9a3e00d5" />
+<img width="519" height="433" alt="image" src="https://github.com/user-attachments/assets/6114562a-77e7-4188-a972-6020eca1703e" />
+<img width="724" height="712" alt="image" src="https://github.com/user-attachments/assets/1a96f57f-2ec8-42bb-abc3-bc3a70e91a27" />
 
 * Accidents were more frequent in **poor weather and wet road conditions**
 * **Evening hours** showed higher accident counts compared to mornings
@@ -87,7 +91,7 @@ This project explores accident data through **Exploratory Data Analysis (EDA)** 
 3. Run the notebook:
 
    ```bash
-   jupyter notebook accident_analysis.ipynb
+   Jupyter Notebook accident_analysis.ipynb
    ```
 
 ---
@@ -100,17 +104,12 @@ This project explores accident data through **Exploratory Data Analysis (EDA)** 
 
 ---
 
-## 👩‍💻 Author
+## 📬 Contact
 
-**Ruksana Shaikh**
-
-* 🌐 [GitHub](https://github.com/Ruksana-shaikh)
-* 💼 [LinkedIn](#) *(add your link)*
-
+* **Author:** Ruksana Shaikh
+* **Linkedin** (https://www.linkedin.com/in/ruksana-ks)
+* **GitHub:** (https://github.com/Ruksana-shaikh)
+* **Email:** (mail to: shaikhruksana.k@gmail.com)
 ---
 
 ✨ *If you like this project, don’t forget to ⭐ the repo!*
-
----
-
-Would you like me to also generate a **`requirements.txt`** file (Pandas, Seaborn, Matplotlib) so anyone can run this repo smoothly?
